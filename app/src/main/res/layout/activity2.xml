@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/TV"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:text="Text"
+        android:textSize="20sp"
+        ></TextView>
+    <Button
+        android:id="@+id/But2"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:text="BACK"></Button>
+</LinearLayout>
